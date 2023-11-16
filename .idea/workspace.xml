@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e125b64b-acf0-4211-9069-bd31c4f514f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/streams/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/streams/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Neighborhood-Library" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Neighborhood-Library" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Week-1/PayrollCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-1/PayrollCalculator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Week-2/workbook-2/AddressBuilder" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/AddressBuilder" afterDir="false" />
@@ -34,6 +42,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
