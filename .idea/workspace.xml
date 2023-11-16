@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e125b64b-acf0-4211-9069-bd31c4f514f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/streams/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/streams/Program.java" afterDir="false" />
+    <list default="true" id="e125b64b-acf0-4211-9069-bd31c4f514f6" name="Changes" comment="Completion">
       <change beforePath="$PROJECT_DIR$/../../../Neighborhood-Library" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Neighborhood-Library" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Week-1/PayrollCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-1/PayrollCalculator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Week-2/workbook-2/AddressBuilder" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/AddressBuilder" afterDir="false" />
@@ -34,6 +26,9 @@
       <change beforePath="$PROJECT_DIR$/../../../Week-4/StaticClasses" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-4/StaticClasses" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Week-5/workbook-5/AbstractAssets" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-5/workbook-5/AbstractAssets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Week-5/workbook-5/AssetManager" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-5/workbook-5/AssetManager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/streams/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/streams/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/streams/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/streams/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../workbook-1/BasicCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workbook-1/BasicCalculator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../workbook-1/MathApplication" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workbook-1/MathApplication" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../workbook-1/SandwichShop" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workbook-1/SandwichShop" afterDir="false" />
@@ -53,22 +48,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2YE6B9Ys3xS3y8nMurbr77slWRV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1700078255025</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completion">
+      <option name="closed" value="true" />
+      <created>1700141821943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700141821943</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completion" />
   </component>
 </project>

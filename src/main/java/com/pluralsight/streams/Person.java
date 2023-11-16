@@ -12,18 +12,19 @@ public class Person {
         this.age = age;
     }
 
-    public Person searchByName (String name, List<Person> people) {
-        for (Person p : people) {
-            if (p.lastName.contains(name) || p.firstName.contains(name)) {
-                return p;
-            }
-        }
-        return null;
+    public String getFirstName() {
+        return firstName;
     }
-    public String string() {
-        return "Person{" + "firstName = '" + firstName + '\'' +
-                ", lastName = '" + lastName + '\'' +
-                ", age = " + age +
-                '}';
+
+
+    public String getLastName() {
+        return lastName;
+    }
+
+
+    public int getAge() {
+        return age;
     }
 }
+
+

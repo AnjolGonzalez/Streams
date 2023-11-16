@@ -19,13 +19,14 @@ public class Program {
         personList.add(new Person("Ivan", "Taverez", 23));
         personList.add(new Person("Rickey", "Glover", 22));
 
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the first or last name:");
         String name = scanner.nextLine();
 
         for (Person p : personList) {
-            if (p.lastName.contains(name) || p.firstName.contains(name)) {
-                System.out.println(p);
+            if (name.equalsIgnoreCase(p.getLastName()) || name.equalsIgnoreCase(p.getFirstName())) {
+                System.out.println(p.getFirstName() + " " +  p.getLastName() + " " +  p.getAge());
             }
         }
         double totalAge = 0;
