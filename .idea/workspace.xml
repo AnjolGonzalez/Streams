@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e125b64b-acf0-4211-9069-bd31c4f514f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Neighborhood-Library" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Neighborhood-Library" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-1/PayrollCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-1/PayrollCalculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-2/workbook-2/AddressBuilder" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/AddressBuilder" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-2/workbook-2/CellPhoneApplication" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/CellPhoneApplication" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-2/workbook-2/FullNameParser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/FullNameParser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-2/workbook-2/HighScoreWins" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/HighScoreWins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-2/workbook-2/LoopingExercises" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/LoopingExercises" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-2/workbook-2/RollTheDice" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/RollTheDice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-2/workbook-2/TestStatistics-1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/TestStatistics-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-3/workbook-3/BedTimeStories" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-3/workbook-3/BedTimeStories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-3/workbook-3/FamousQuotes" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-3/workbook-3/FamousQuotes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-3/workbook-3/OnlineStore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-3/workbook-3/OnlineStore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-3/workbook-3/PayrollCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-3/workbook-3/PayrollCalculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-3/workbook-3/SearchEngineLogger" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-3/workbook-3/SearchEngineLogger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-3/workbook-3/SearchInventory" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-3/workbook-3/SearchInventory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-3/workbook-3/SearchInventoryMap" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-3/workbook-3/SearchInventoryMap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-4/BlackJack" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-4/BlackJack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-4/HotelOperations" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-4/HotelOperations" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-4/StaticClasses" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-4/StaticClasses" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-5/workbook-5/AbstractAssets" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-5/workbook-5/AbstractAssets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week-5/workbook-5/AssetManager" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week-5/workbook-5/AssetManager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workbook-1/BasicCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workbook-1/BasicCalculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workbook-1/MathApplication" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workbook-1/MathApplication" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workbook-1/SandwichShop" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workbook-1/SandwichShop" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2YE6B9Ys3xS3y8nMurbr77slWRV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e125b64b-acf0-4211-9069-bd31c4f514f6" name="Changes" comment="" />
+      <created>1700078255025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700078255025</updated>
+    </task>
+    <servers />
+  </component>
+</project>
